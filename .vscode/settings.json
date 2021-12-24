@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "node_crud",
+            "database": "crud-db",
+            "username": "postgres",
+            "password": "postgres"
+        }
+    ]
+}
